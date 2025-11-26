@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <!-- 应用名称 -->
+    <string name="app_name">记事本</string>
+    <string name="live_folder_name">笔记</string>
+
+    <!-- 标题相关 -->
+    <string name="title_edit_title">笔记标题：</string>
+    <string name="title_create">新建笔记</string>
+    <string name="title_edit">编辑：%1$s</string>
+    <string name="title_notes_list">笔记列表</string>
+
+    <!-- 菜单选项 -->
+    <string name="menu_add">新建笔记</string>
+    <string name="menu_save">保存</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_open">打开</string>
+    <string name="menu_revert">撤销更改</string>
+    <string name="menu_copy">复制</string>
+    <string name="menu_paste">粘贴</string>
+
+    <!-- 按钮和标签 -->
+    <string name="button_ok">确定</string>
+    <string name="text_title">标题：</string>
+
+    <!-- Intent 解析标签 -->
+    <string name="resolve_edit">编辑笔记</string>
+    <string name="resolve_title">编辑标题</string>
+
+    <!-- 错误提示 -->
+    <string name="error_title">错误</string>
+    <string name="error_message">加载笔记时出错</string>
+    <string name="nothing_to_save">没有内容可保存</string>
+</resources>
